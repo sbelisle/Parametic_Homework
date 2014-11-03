@@ -1,0 +1,1 @@
+This assignment was to create an object with changable parameters. I created a simple, chalice-like object where the width of the grip, the flare at the top, and the flare at the base can be changed. 
